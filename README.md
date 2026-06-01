@@ -49,6 +49,9 @@
   - Multiple failed logins detection
   - Account lockout alert
   - Server restart alert
+
+ ## Alerts Example
+ ![Alerts](alertsup.png)
   
   ---
 
