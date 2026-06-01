@@ -38,7 +38,7 @@ This project demonstrates the implementation of a SIEM solution using Graylog fo
 
 ## Features
 - Centralized log collection from multiple systems
-- Log parsing and normalization (pipelines)
+- Log parsing and normalization using pipelines
 - Event correlation across sources
 - Security dashboards and monitoring
 - Alerting system with email notifications
@@ -127,9 +127,11 @@ Custom pipelines were implemented to:
 ---
 
 ## Project Context
+
 This project was developed as part of a cybersecurity internship, focusing on SIEM implementation, log analysis, and real-time security monitoring.
 
 The solution provides:
 - Centralized visibility over infrastructure logs
 - Detection of security events and anomalies
 - Automated alerting and monitoring
+- Practical experience with SIEM tools and security operations
